@@ -65,7 +65,7 @@ Interactive tool for visualizing sorting algorithms and understanding their time
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: [My LinkedIn](YOUR_LINKEDIN_URL)
+- 💼 LinkedIn: -[Gaurav Kumar](https://www.linkedin.com/in/gaurav-kumar-6b793828a)
 - 🌐 Portfolio: https://gauravkumar9798.github.io/portfolio/
 
 ---
