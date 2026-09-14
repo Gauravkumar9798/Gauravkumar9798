@@ -127,7 +127,6 @@ A responsive calculator application built using web technologies.
 - ⚡ Continuously improving problem-solving skills
 
 ---
-
 ## 📊 GitHub Statistics
 
 <p align="center">
@@ -142,7 +141,6 @@ A responsive calculator application built using web technologies.
 <p align="center">
   <img src="./profile/streak.svg" height="195" alt="GitHub Streak"/>
 </p>
-
 ---
 
 ## 🤝 Connect With Me
